@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: master Spring Boot
 
 ### Connect with me:
-[<img align="left" alt="sergi | LinkedIn" width="22px" src="https://www.linkedin.com/in/sergividiella/" />][linkedin]
+[<img align="left" alt="sergi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiii24&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+[linkedin]: https://linkedin.com/in/sergividiella
